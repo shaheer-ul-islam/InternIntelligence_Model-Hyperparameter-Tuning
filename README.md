@@ -12,7 +12,6 @@ Hyperparameter Tuning: Optimization using GridSearchCV, Random Search, Bayesian 
 
 Performance Metrics: Accuracy, Precision, Recall, and F1-Score comparisons before and after tuning.
 
-Visualization: Bar charts and confusion matrices to compare models.
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +57,6 @@ optuna
 
 
 🔹 Hyperparameter tuning significantly improves model performance.
-🔹 Visualizations highlight the differences in predictions.
 
 ## 📢 About the Internship
 
