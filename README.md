@@ -39,15 +39,6 @@ optuna
  ┣ 📜 Model_Tuning_and_Performance_Evaluation.docx
  ┣ 📜 README.md  # Project Documentation
 
-## 🎯 Installation & Usage
-
-1️⃣ Install Dependencies
-
-pip install -r requirements.txt
-
-2️⃣ Run the Project
-
-python main.ipynb
 
 
 ## 📊 Results & Insights
