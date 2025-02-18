@@ -35,8 +35,8 @@ optuna
 ## 📂 Project Structure
 
 📦 XGBoost-Model-Tuning
- ┣ 📜 main.ipynb  # Model training, evaluation & tuning
- ┣ 📜 requirements.txt  # Dependencies
+ ┣ 📜 heart_disease.ipynb  # Model training, evaluation & tuning
+ ┣ 📜 Model_Tuning_and_Performance_Evaluation.docx
  ┣ 📜 README.md  # Project Documentation
 
 ## 🎯 Installation & Usage
